@@ -16,9 +16,10 @@ $ npm install 또는 yarn install
 ```
 2. 다음 명령을 실행하여 로컬 서버를 생성합니다.
 ```
-$ yarn dev
+$ npm run dev 또는 yarn dev
 ```
-3. http://127.0.0.1:5173
+3. 웹 브라우저 상에서, http://127.0.0.1:8080 주소로 접속합니다.
+
 
 
 
